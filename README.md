@@ -1,4 +1,4 @@
-echo "# **Expense Tracker**
+# **Expense Tracker**
 
 A simple Python-based application to track, categorize, and visualize expenses. This project stores expenses locally using SQLite and provides features to export data and generate insights with visualizations.
 
@@ -136,5 +136,3 @@ For any issues or suggestions, feel free to contact me:
 - **GitHub**: [your-username](https://github.com/your-username)
 
 ---
-
-" > README.md
