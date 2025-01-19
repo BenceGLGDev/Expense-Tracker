@@ -132,7 +132,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## **Contact**
 For any issues or suggestions, feel free to contact me:
-- **Email**: your-email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
+- **GitHub**: [BenceGLG](https://github.com/BenceGLGDev)
 
 ---
